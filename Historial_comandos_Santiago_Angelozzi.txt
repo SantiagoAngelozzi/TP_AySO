@@ -1,0 +1,139 @@
+exit
+cd
+cd..
+mkdir carpeta_prueba
+ls
+ls-l
+ll
+exit
+history
+ld -l
+ls -l
+cd preubas_borrar/
+ls -l
+cat archivo.txt 
+cd ..
+cd
+exit
+pwd
+whomi
+whoami
+ls-l
+ls -l
+ll
+del carpeta_prueba/
+rmdir carpeta_prueba/
+ls
+ls -l
+cd repogit/
+ls -l
+cd UTN-FRA_SO_onBording/
+ll
+cd..
+cd ..
+mkdir preubas_borrar
+echo "hola mundo" > preubas_borrar/
+cd preubas_borrar/
+echo "hola mundo" > archivo.txt
+ls -l
+cat archivo.txt 
+cd..
+cd ..
+pwl
+pwd
+clear
+ls -l
+cd repogitTP/TP_AySO/
+git config --global user.email "santiagoangelozzi@gmail.com" ; git config --global user.name "SantiagoAngelozzi"
+git commit -m "ADD: agregado el primer ejercicio sobre datos_usuarios.txt"
+git status
+exit
+ssh-keygen
+cat $HOME/.ssh*.pub
+cd
+cd..
+pwl
+pwd
+cat $HOME/.ssh/*.pub
+ls-l
+ls -l
+cd repogit/
+ls -l
+cd
+mkdir repogitTP
+cd repogit
+cd
+cd repogitTP/
+git clone https://github.com/SantiagoAngelozzi/TP_AySO.git
+ls -l
+cd TP_AySO/
+pwl
+pwd
+cat /etc/os-release
+man grep
+grep -i HOME_URL/etc/os-release
+pwd
+ls -l
+cd repogitTP/
+LS -L
+ls -l
+cd TP_AySO/
+grep -i Home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+cd
+rmdir preubas_borrar/
+rm preubas_borrar/
+rm -rf preubas_borrar/
+ls -l
+cd repogitTP/
+cd TP_AySO/
+git add
+git add .
+git config --global user.email "santiagoangelozzi@gmail.com
+git config --user.name "SantiagoAngelozzi"
+cat /proc/
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+ls -l
+cat datos_usuario.txt 
+cd repogitTP/TP_AySO/
+LS-LÑ
+ls .l
+ls -l
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+cat datos_usuario.txt 
+cd
+rm datos_usuario.txt 
+LS -L
+ls -l
+cd repogitTP/TP_AySO/
+git add .
+git commit -m "feat: añadiendo info del CPU"
+git status
+cat /etc/passwd
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7 > lista_ordenada
+ls -l
+cd lista_ordenada
+cat lista_ordenada 
+grep -v "nologin" /etc/passwd | head -n 10 | sort > lista_ordenada
+cat lista_ordenada 
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7 > lista_ordenada
+git add .
+git commit "ADD: Listado de usuarios ordenada"
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+echo "tcpdump" > comando_dump_net
+ls -l
+cat comando_dump_net 
+echo "sudo tcpdump -i <interfaz>" >> comando_dump_net 
+cat comando_dump_net 
+git add .
+git commit -m "AAD: comando para capturar y analizar el trafico de red"
+echo "Alumno: Santiago Angelozzi" README.md 
+echo "Alumno: Santiago Angelozzi" >> README.md 
+echo "division: 312" >> README.md 
+echo "turno: noche" >> README.md 
+cat README.md 
+git add .
+git commit -m "feat: se agrgo contenido al README.md"
+history -a
